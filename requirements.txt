@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+pulp==2.9.0   # 3.x+ no longer bundles the CBC solver and changed its API
+pytest
+scikit-learn==1.9.1   # pinned: models/points_model.joblib must be loaded with the version that saved it

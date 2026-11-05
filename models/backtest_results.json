@@ -1,0 +1,37 @@
+[
+  {
+    "method": "ml_model",
+    "mae": 1.149,
+    "rmse": 2.12,
+    "mae_played": 1.998,
+    "n": 2647
+  },
+  {
+    "method": "formula",
+    "mae": 1.188,
+    "rmse": 2.181,
+    "mae_played": 2.111,
+    "n": 2647
+  },
+  {
+    "method": "fpl_xp",
+    "mae": 0.997,
+    "rmse": 2.011,
+    "mae_played": 1.983,
+    "n": 2647
+  },
+  {
+    "method": "last5_mean",
+    "mae": 1.252,
+    "rmse": 2.338,
+    "mae_played": 2.282,
+    "n": 2647
+  },
+  {
+    "method": "zero",
+    "mae": 1.411,
+    "rmse": 2.89,
+    "mae_played": 3.035,
+    "n": 2647
+  }
+]
